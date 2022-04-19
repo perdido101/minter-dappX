@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Mundo Perdido 101 NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Mundo Perdido 101 is an NFT project that aims to build up the Mundo Perdido brand and build a community around it.';
+const welcome_p = 'Mundo Perdido 101 is an NFT project that aims a community around the Mundo Perdido brand.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
