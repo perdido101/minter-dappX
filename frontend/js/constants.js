@@ -1,5 +1,5 @@
-const contractAddress = "0x0BA15DeF968e678d14A9807741796a7046eAcA7C"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x8fE031b55d0E1c802647C4C83c0a91B968Fd5cfF"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Mundo Perdido 101 Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
