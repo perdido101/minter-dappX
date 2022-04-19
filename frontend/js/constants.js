@@ -1,7 +1,7 @@
 const contractAddress = "0x8fE031b55d0E1c802647C4C83c0a91B968Fd5cfF"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Mundo Perdido 101 Project!!";
+const welcome_h1 = "Welcome to the Mundo Perdido 101 NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'Mundo Perdido 101 is an NFT project that aims to build up the Mundo Perdido brand and build a community around it.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
